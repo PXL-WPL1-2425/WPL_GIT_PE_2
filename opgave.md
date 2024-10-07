@@ -10,6 +10,7 @@ Gevraagd: Bouw de volgende webpagina na:
 ![](./assets/eindresultaat.png)
 
 Om de video te kunnen zien bewegen ga je eerst een keer naar https://www.riotgames.com/ moeten surfen.
+
 Requirements:
 
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ID&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Onderwerp                  | Beschrijving                                                                                                                                                                                                                                                                                                                                                                                                                  |
